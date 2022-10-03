@@ -95,7 +95,8 @@ In comparison operation  we take input of the first number and mov the value fro
 
 •	Addition
 
- 
+ ![image](https://user-images.githubusercontent.com/71806699/193582826-2d3f1901-cadb-4fcd-a022-85c8860d64bf.png)
+
 
 
 
@@ -103,28 +104,36 @@ In comparison operation  we take input of the first number and mov the value fro
 
 
 •	Multiplication
+![image](https://user-images.githubusercontent.com/71806699/193582855-fe8581b2-0d69-4f06-a8ef-38454fad3ddb.png)
 
  
 
 •	Subtraction:
+![image](https://user-images.githubusercontent.com/71806699/193582879-616a2476-ddc5-48ae-b24f-d2cae10ddbae.png)
 
  
 
 •	Division
+![image](https://user-images.githubusercontent.com/71806699/193582905-17c5e74c-2aa1-4278-a080-9fa1cf8029ff.png)
 
  
 
 •	Square
+![image](https://user-images.githubusercontent.com/71806699/193582922-a174df7c-0d6e-4779-b741-bdf291c9176c.png)
 
  
 
 •	Cube
- 
+ ![image](https://user-images.githubusercontent.com/71806699/193582947-3aaf44ba-f08b-4848-9309-40ced482f8cd.png)
+
 
 •	Percentage
- 
+ ![image](https://user-images.githubusercontent.com/71806699/193582960-dc5756c1-8df1-44ab-8535-0cc3b736296e.png)
+
 •	Comparison 
- 
+ ![image](https://user-images.githubusercontent.com/71806699/193582985-3849aa71-ba1b-4b02-a60f-c1877215b933.png)
+
 
 •	Invalid Input
- 
+ ![image](https://user-images.githubusercontent.com/71806699/193583016-0144e717-26f2-44a5-84b6-527e757fd999.png)
+
